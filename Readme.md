@@ -3,7 +3,7 @@
 
 # Student Search Backend
 
-Welcome to the backend repository of our Student Search. This backend is responsible for managing video uploads, fetching videos, and more. Below, you'll find detailed information about the technologies used and how to get started.
+Welcome to the backend repository of our Student Search. 
 
 ## Technologies Used
 
