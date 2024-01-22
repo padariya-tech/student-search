@@ -61,8 +61,7 @@ by creating .env file inside main folder
    
 
 ## Api Structure
--  [API-REFERENCRE]
-- [<div class="postman-run-button"
+-  [API-REFERENCRE][<div class="postman-run-button"
 data-postman-action="collection/fork"
 data-postman-visibility="public"
 data-postman-var-1="31978635-8e00d6d3-d6cd-4f24-91f2-90c64a36f925"
