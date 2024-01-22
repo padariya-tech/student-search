@@ -1,9 +1,20 @@
+# getting data from student search
+ - go in getData (cd getData write in terminal) folder , run node getStudentdata.js in replace Authorization with access token for that request
+ - store response in response.json file
+ - using this response.json and filter y23 batch by running node y23batch.js get result in y23batch.json
+ - used this file to write wing.js which contain two function first group data based on wing and second is print that data
+ - run node wing.js file and stored result in groupedByWing.json 
+ ## Install Dependencies 
 
+      
+npm install axios
 
+ 
 
 # Student Search Backend
 
 Welcome to the backend repository of our Student Search. 
+stored above groupedByWing.json in mondodb data base 
 
 ## Technologies Used
 
@@ -42,12 +53,13 @@ Make sure you have the following installed on your machine:
 
 ## Install Dependencies 
 ```bash
-     
+      npm install dotenv
 npm install cors
 npm install express
 npm install mongoose
+npm install axios
 
-    npm install dotenv
+   
     
 ```
 ## Set Up Environment Variables
