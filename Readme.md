@@ -62,6 +62,7 @@ by creating .env file inside main folder
 
 ## Api Structure
 -  [API-REFERENCRE]
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/:31978635-8e00d6d3-d6cd-4f24-91f2-90c64a36f925)
 <div class="postman-run-button"
 data-postman-action="collection/fork"
 data-postman-visibility="public"
