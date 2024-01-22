@@ -49,6 +49,9 @@ const getDataByWingiesOrNot = asyncHandler(async(req,res)=>{
     if(!rollNumber2){
         throw new ApiError(400,"roll  Number2 required")
     }
+    if(rollNumber1===rollNumber2){
+        throw new ApiError(400,"roll number should not be same")
+    }
     const data = await mongoose.connection.db.collection("student_data").find({}).toArray()
     if(!data){
         throw new ApiError(404,"No data found")
