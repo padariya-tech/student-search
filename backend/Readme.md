@@ -42,6 +42,11 @@ Make sure you have the following installed on your machine:
 
 ## Install Dependencies 
 ```bash
+     
+npm install cors
+npm install express
+npm install mongoose
+
     npm install dotenv
     
 ```
