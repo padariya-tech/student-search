@@ -82,3 +82,10 @@ by creating .env file inside main folder
 -  [API-REFERENCRE]
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/31978635-8e00d6d3-d6cd-4f24-91f2-90c64a36f925?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D31978635-8e00d6d3-d6cd-4f24-91f2-90c64a36f925%26entityType%3Dcollection%26workspaceId%3Deec5af4f-82d1-4a9c-8946-373679c6b122)
 
+# Student Search frontend
+
+cd frontend 
+cd sSearch 
+npm run dev
+
+in frontend just show the data of student which is coming from backend 
