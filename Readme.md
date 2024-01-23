@@ -15,6 +15,7 @@ npm install axios
 
 Welcome to the backend repository of our Student Search. 
 stored above groupedByWing.json in mondodb data base 
+come back to root folder ( cd .. )
 
 ## Technologies Used
 
