@@ -89,3 +89,4 @@ cd sSearch
 npm run dev
 
 in frontend just show the data of student which is coming from backend 
+how it looks you can see on output.png
