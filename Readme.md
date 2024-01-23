@@ -88,5 +88,7 @@ cd frontend
 cd sSearch 
 npm run dev
 
+for running both frontend and backend in one terminal run frontend and on other run backend
+
 in frontend just show the data of student which is coming from backend 
 how it looks you can see on output.png
