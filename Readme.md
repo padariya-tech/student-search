@@ -86,6 +86,7 @@ by creating .env file inside main folder
 
 cd frontend 
 cd sSearch 
+npm install
 npm run dev
 
 for running both frontend and backend in one terminal run frontend and on other run backend
